@@ -1,0 +1,7 @@
+C:\Users\Utilizador\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Utilizador/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/ninja/win/ninja.exe -G Ninja C:\Users\Utilizador\Desktop\ines\progp1
+-- Could NOT find Python (missing: Python_EXECUTABLE Interpreter) 
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+Doxygen needs to be installed to generate the documentation.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Utilizador/Desktop/ines/progp1/cmake-build-debug
